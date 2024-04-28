@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "ed335cd4db1570b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "88ef3d34ff382ba5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23cc83e8e4f6dbb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Certifications/List of Courses and Certifications.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "15284f5960ccea6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a55dc11539be9be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9332e21b31cd963",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9ab85ee215031f17",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6762d855fbab727b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9da97e887a990bd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b4119d8c46468d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6c7dd928cd41d92",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Certifications/List of Courses and Certifications.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "febfdf33baad41ec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Certifications/List of Courses and Certifications.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a2e355f148152ecd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "79200f9ef1753e1e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Certifications/List of Courses and Certifications.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "23cc83e8e4f6dbb6",
+  "lastOpenFiles": [
+    "Projects/List of Projects.md",
+    "Certifications/List of Courses and Certifications.md",
+    "Notes/Python/Python Language Notes.md",
+    "Notes/Data Warehouse/Data Warehouse Fundamentals.md",
+    "Untitled.md"
+  ]
+}
